@@ -11,8 +11,13 @@ Check the status of your folder (what has been changed and committed)
 ```
 git status
 ```
+## Add
+Add file(s) to be committed
+```
+git add <file_1> <file_2> ... <file_n>
+```
 ## Commit
-To commit a file(s) and leave a message
+To commit git status and leave a message
 ```
 git commit -m "<your message>"
 ```
@@ -28,4 +33,4 @@ Push your current git status to github
 git push -u origin master
 ```
 ## Token
-You can get token from ``settings > Developer settings > Personal access tokens
+You can get token from ``settings > Developer settings > Personal access tokens``
