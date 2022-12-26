@@ -33,4 +33,4 @@ Push your current git status to github
 git push -u origin master
 ```
 ## Token
-You can get token from ``settings > Developer settings > Personal access tokens``
+You can get token from ``Settings > Developer settings > Personal access tokens``
