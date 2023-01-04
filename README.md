@@ -26,11 +26,15 @@ Connect your local git repo to github
 ```
 git remote add origin <url>
 ```
+## Checking Branch
+```
+git branch
+```
 
 ## Push
 Push your current git status to github
 ```
-git push -u origin master
+git push -u origin <branch>
 ```
 ## Token
 You can get token from ``Settings > Developer settings > Personal access tokens``
