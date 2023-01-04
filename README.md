@@ -22,7 +22,7 @@ To commit git status and leave a message
 git commit -m "<your message>"
 ```
 ## Integration
-Connect your local git repo to github
+Connect your local git repo to github. There's no need for this action if you forked your folder from a repo
 ```
 git remote add origin <url>
 ```
